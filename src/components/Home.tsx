@@ -76,7 +76,7 @@ export const Home = () => {
         <footer className="bg-minecraft-dark/90 border-t-4 border-minecraft-darker py-8">
           <div className="max-w-6xl mx-auto px-4 text-center">
             <p className="text-gray-300 text-sm pixel-font">
-              © 2024 Web Designer Training Quest. All rights reserved.
+              © 2024 My First Web Quiz App. All rights reserved.
             </p>
             <p className="text-gray-400 text-xs mt-2">
               Powered by React + TypeScript + Tailwind CSS
